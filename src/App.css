@@ -1,6 +1,6 @@
 body {
   background-color: #333;
-  color: #fff;
+  color: yellow;
 }
 
 .App {
@@ -8,9 +8,9 @@ body {
 }
 
 .taskBg {
-  background-color: #555;
-  border-radius: 6px;
-  margin-bottom: 20px;
+  background-color: #666;
+  border-radius: 5px;
+  margin-bottom: 30px;
   padding: 10px 140px 10px 15px;
   text-align: left;
   font-size: 22px;
